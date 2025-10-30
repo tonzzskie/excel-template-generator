@@ -77,6 +77,3 @@ python data_generator2.py
 
 ---
 
-
-
-Would you like me to also generate a **sample `requirements.txt`** that includes the likely dependencies for your project (`pandas`, `openpyxl`, `faker`, etc.) so you can copy that too?
